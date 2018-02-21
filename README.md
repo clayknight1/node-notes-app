@@ -1,0 +1,1 @@
+A simple Node js note taking app using Yargs command line tools.
